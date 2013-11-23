@@ -1,0 +1,7 @@
+.actor{
+    background:red;
+    width:20px;
+    height:20px;
+    position:absolute;
+    -webkit-border-radius:10px;
+}
